@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-25T21:03:15+00:00",
+  "generated_at": "2026-11-26T15:22:36+00:00",
   "values": {
     "price": {
-      "value": 59790.655582,
-      "as_of": "2026-11-24",
+      "value": 60267.6253,
+      "as_of": "2026-11-25",
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur), дневное закрытие UTC"
     },
     "realized_price": {
-      "value": 53099.332935,
-      "as_of": "2026-11-24",
+      "value": 53047.955639,
+      "as_of": "2026-11-25",
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur), цена / MVRV"
     },
     "mvrv": {
-      "value": 1.126015,
-      "as_of": "2026-11-24",
+      "value": 1.136097,
+      "as_of": "2026-11-25",
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur)"
     },
     "ma200d": {
-      "value": 72123.489937,
-      "as_of": "2026-11-24",
+      "value": 72021.509915,
+      "as_of": "2026-11-25",
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur), 200 дневных закрытий"
     },
     "ma200w": {
-      "value": 68195.972934,
-      "as_of": "2026-11-24",
+      "value": 68222.514748,
+      "as_of": "2026-11-25",
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur), 1400 дневных закрытий"
     },
     "ath": {
@@ -32,28 +32,28 @@
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur), максимальное дневное закрытие"
     },
     "fear_greed": {
-      "value": 13.0,
-      "as_of": "2026-11-25",
+      "value": 11.0,
+      "as_of": "2026-11-26",
       "source": "alternative.me Crypto Fear & Greed"
     },
     "us10y": {
-      "value": 4.92,
-      "as_of": "2026-11-23",
+      "value": 4.91,
+      "as_of": "2026-11-24",
       "source": "FRED DGS10"
     },
     "real10y": {
       "value": 2.79,
-      "as_of": "2026-11-23",
+      "as_of": "2026-11-24",
       "source": "FRED DFII10"
     },
     "dxy": {
-      "value": 103.687,
-      "as_of": "2026-11-25",
+      "value": 103.711,
+      "as_of": "2026-11-26",
       "source": "Yahoo Finance DX-Y.NYB"
     },
     "funding_pct": {
-      "value": 0.01,
-      "as_of": "2026-11-25",
+      "value": 0.004669,
+      "as_of": "2026-11-26",
       "source": "OKX BTC-USDT-SWAP, ставка за 8 ч"
     }
   },
