@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-26T15:22:36+00:00",
+  "generated_at": "2026-11-27T15:10:14+00:00",
   "values": {
     "price": {
-      "value": 60267.6253,
-      "as_of": "2026-11-25",
+      "value": 60415.398734,
+      "as_of": "2026-11-26",
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur), дневное закрытие UTC"
     },
     "realized_price": {
-      "value": 53047.955639,
-      "as_of": "2026-11-25",
+      "value": 53033.202053,
+      "as_of": "2026-11-26",
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur), цена / MVRV"
     },
     "mvrv": {
-      "value": 1.136097,
-      "as_of": "2026-11-25",
+      "value": 1.1392,
+      "as_of": "2026-11-26",
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur)"
     },
     "ma200d": {
-      "value": 72021.509915,
-      "as_of": "2026-11-25",
+      "value": 71912.303003,
+      "as_of": "2026-11-26",
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur), 200 дневных закрытий"
     },
     "ma200w": {
-      "value": 68222.514748,
-      "as_of": "2026-11-25",
+      "value": 68249.233826,
+      "as_of": "2026-11-26",
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur), 1400 дневных закрытий"
     },
     "ath": {
@@ -32,8 +32,8 @@
       "source": "Coin Metrics community API (PriceUSD, CapMVRVCur), максимальное дневное закрытие"
     },
     "fear_greed": {
-      "value": 11.0,
-      "as_of": "2026-11-26",
+      "value": 12.0,
+      "as_of": "2026-11-27",
       "source": "alternative.me Crypto Fear & Greed"
     },
     "us10y": {
@@ -47,13 +47,13 @@
       "source": "FRED DFII10"
     },
     "dxy": {
-      "value": 103.711,
-      "as_of": "2026-11-26",
+      "value": 103.913,
+      "as_of": "2026-11-27",
       "source": "Yahoo Finance DX-Y.NYB"
     },
     "funding_pct": {
-      "value": 0.004669,
-      "as_of": "2026-11-26",
+      "value": 0.00307,
+      "as_of": "2026-11-27",
       "source": "OKX BTC-USDT-SWAP, ставка за 8 ч"
     }
   },
